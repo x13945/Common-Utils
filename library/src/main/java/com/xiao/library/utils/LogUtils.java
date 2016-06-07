@@ -6,7 +6,6 @@ import com.xiao.library.BuildConfig;
 
 
 /**
- * Created by Tianzilong on 2015/11/26.
  */
 public class LogUtils {
     private static final boolean DEBUG = Log.isLoggable(LogUtils.class.getSimpleName(), Log.DEBUG);
